@@ -28,7 +28,7 @@ This package makes it easy to send notifications using [Expo](https://docs.expo.
 
 Install this package with Composer:
 
-    composer require laravel-notification-channels/expo
+composer require lifespikes/expo-notification-channel
 
 ### Setting up the Expo service
 
